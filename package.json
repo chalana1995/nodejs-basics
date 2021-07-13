@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/chalana1995/nodejs-basics/issues"
   },
-  "homepage": "https://github.com/chalana1995/nodejs-basics#readme"
+  "homepage": "https://github.com/chalana1995/nodejs-basics#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
 }
